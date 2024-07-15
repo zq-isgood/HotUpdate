@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 657763598
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6798cc2709199f722203011df672dedb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 927a9de9af4e20665a4eb1982355518f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BuildResources/Scenes/Test01.unity
+Dependencies:
+- "C:/Users/super/Desktop/GameCreate/XLua\u6846\u67B6\u8BFE\u7A0B\u8D44\u6E90/XluaFramework/Assets/StreamingAssets/model/mat/test01.mat.ab"

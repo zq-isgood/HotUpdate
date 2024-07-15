@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1493154151
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06cccc088d1e558c701b61b2be74ded8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2eb733743952f1b62c99d2bc9d50effa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BuildResources/Model/Prefabs/Player.prefab
+Dependencies:
+- "C:/Users/super/Desktop/GameCreate/XLua\u6846\u67B6\u8BFE\u7A0B\u8D44\u6E90/XluaFramework/Assets/StreamingAssets/model/mat/palyer.mat.ab"

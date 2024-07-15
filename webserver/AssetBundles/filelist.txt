@@ -1,0 +1,6 @@
+Assets/BuildResources/UI/Prefabs/TestUI.prefab|ui/prefabs/testui.prefab.ab|Assets/BuildResources/UI/Sprites/button_150.png|Assets/BuildResources/UI/Sprites/background.png
+Assets/BuildResources/UI/Sprites/background.png|ui/sprites/background.png.ab
+Assets/BuildResources/UI/Sprites/button_150.png|ui/sprites/button_150.png.ab
+Assets/BuildResources/UI/Sprites/radio_100.png|ui/sprites/radio_100.png.ab
+Assets/BuildResources/UI/Sprites/slider_handle.png|ui/sprites/slider_handle.png.ab
+Assets/BuildResources/UI/Sprites/universal_panel_40.png|ui/sprites/universal_panel_40.png.ab
